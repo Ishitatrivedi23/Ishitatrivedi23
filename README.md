@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Trivedi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Development and Deployment**
+- 🌱 I’m currently learning **Development and Deployment.**
 
 - 👯 I’m looking to collaborate on **open-source contributions, and web applications that solve real-world problems.**
 
